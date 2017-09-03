@@ -1,0 +1,30 @@
+<body bgcolor="#FFFFFF" leftmargin="40" topmargin="0" marginwidth="0" marginheight="0">
+<div>
+    <br />
+    <table style="width: 800px;">
+        <tbody>
+        <tr>
+            <td colspan="2" width="600" height="28"><div style="text-align: left; float: left; font-size: 26px; font-weight: bold; color: #253400; font-family: arial, sans-serif;">
+        </tr>
+        <tr>
+            <td colspan="2" style="color: #000000;border: 1px solid #FFFFFF;" rowspan="2" width="100" height="130" align="center"
+                valign="top" bgcolor="#87cefa">
+        </tr>
+        <tr>
+            <td rowspan="2" width="334" height="497" align="left" valign="top">
+                <table style="width: 450px;">
+                    <tbody>
+                    <tr>
+                        <td>
+                            <h2>Текст сообщения:</h2>
+                            ${message}
+                        </td>
+                    </tr>
+                    </tbody>
+                </table></td>
+            <td width="24" height="65"></td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
